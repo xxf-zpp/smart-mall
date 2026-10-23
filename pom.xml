@@ -15,7 +15,7 @@
   <packaging>jar</packaging>
 
   <name>smart-mall</name>
-  <url>http://maven.apache.org</url>
+  <description>「智选商城」智能客服系统 - 后端</description>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
